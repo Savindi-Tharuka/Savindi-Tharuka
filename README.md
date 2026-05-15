@@ -57,9 +57,9 @@
 ## 🌱 Examples of Work
 
 <p align="center">
-  <img src="https://github.com/Savindi-Tharuka/overview/blob/main/Untitled.jpg" width="233"/>
+  <img src="https://github.com/Savindi-Tharuka/overview/blob/main/Untitled.jpg" width="230"/>
   <img src="https://raw.githubusercontent.com/Savindi-Tharuka/overview/main/ezgif.com-gif-maker.gif" width="590"/>
-  <img src="https://github.com/Savindi-Tharuka/overview/blob/main/WhatsApp%20Video%202026-05-15%20at%2000.05.45.gif" width="148"/>
+  <img src="https://github.com/Savindi-Tharuka/overview/blob/main/WhatsApp%20Video%202026-05-15%20at%2000.05.45.gif" width="147"/>
 </p>
 
 ---
