@@ -1,3 +1,4 @@
+<img width="600" height="330" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/003a40dc-4e10-428b-afc5-c33aac37e073" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Savindi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Software%20Testing%20Enthusiast&descAlignY=55&descAlign=50"/>
 </p>
