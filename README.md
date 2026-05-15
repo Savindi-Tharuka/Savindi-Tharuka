@@ -56,7 +56,7 @@
 ## 🌱 Examples of Work
 
 <p align="center">
-  <img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" />
+  <img src="https://github.com/Savindi-Tharuka/overview/blob/main/ezgif.com-gif-maker.gif" width="512" />
 </p>
 
 ## 📊 GitHub Stats
