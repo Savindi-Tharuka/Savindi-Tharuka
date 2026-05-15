@@ -1,26 +1,25 @@
-Hi there 👋, my name is majintha
-Design and Development
-I am an undergraduate at Sri Lanka Institute of Information Technology following a degree in Information Technology. I am currently in the 3rd year 1st semester of my degree.
+![Design and Development](https://github.com/majintha/majintha/blob/master/index_jonias.jpg)
 
+### Hi there 👋, my name is majintha
+#### Design and Development
+
+I am an undergraduate at Sri Lanka Institute of Information Technology following a degree in Information Technology. I am currently in the 3rd year 1st semester of my degree. 
+ 
 I am a responsible and hardworking individual, and I believe that I am a good team player and leader as well. I hope to seek an internship related to Information Technology.
 
-Skills: HTML / CSS / Javascript / SQL Angular / Node.js / C / C++/ Java / Python / AWS Cloud Computing.
+Skills: HTML / CSS / Javascript / SQL Angular / Node.js /  C / C++/ Java / Python / AWS Cloud Computing.
 
-🔭 I’m currently working on this page.
-🌱 I’m currently learning Angular
-📫 How to reach me: majintha.c@gmail.com
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Angular 
+- 📫 How to reach me: majintha.c@gmail.com 
 
-<!--
-**Savindi-Tharuka/Savindi-Tharuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![majintha](https://github-readme-stats.vercel.app/api?username=majintha&theme=algolia&line_height=24&show_icons=true&hide=stars&include_all_commits=true)
+![majintha](https://github-readme-stats.vercel.app/api/top-langs/?username=majintha&layout=compact&langs_count=6&theme=algolia)
+
+## Examples of Work
+<img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/majintha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/majintha-crishan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/majintha.dimithri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__maji_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CCrishan) 
