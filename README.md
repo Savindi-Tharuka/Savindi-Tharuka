@@ -57,12 +57,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Savindi-Tharuka&show_icons=true&theme=default" />
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Savindi-Tharuka&show_icons=true&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Savindi-Tharuka&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 🔥 GitHub Streak
 
@@ -70,7 +70,8 @@
   <img src="https://streak-stats.demolab.com?user=Savindi-Tharuka&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+## 🌱 Examples of Work
+<img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
 
 ## 👀 Profile Views
 
