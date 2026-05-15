@@ -75,7 +75,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=savindi&label=Profile%20views&color=0e75b6&style=flat" alt="savindi" />
+  <img src="https://komarev.com/ghpvc/?username=savindi&label=Profile%20views&color=0e75b6&style=flat" alt="Savindi" />
 </p>
 
 ---
