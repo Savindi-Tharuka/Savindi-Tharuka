@@ -1,35 +1,75 @@
-![Design and Development](https://github.com/majintha/majintha/blob/master/index_jonias.jpg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Savindi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Software%20Testing%20Enthusiast&descAlignY=55&descAlign=50"/>
+</p>
 
-# Hi there 👋, I'm Savindi  
-### QA Enthusiast | Undergraduate | IT Student  
+# Hi there 👋 I'm Savindi
 
-I am an undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), currently pursuing a degree in Information Technology. I am passionate about Quality Assurance (QA), software testing, and improving application quality through efficient testing practices.  
+### 🧪 QA Engineer | Software Testing Enthusiast | IT Undergraduate
 
-I am a responsible and hardworking individual with strong teamwork and leadership skills. I am currently seeking opportunities to grow my knowledge and gain industry experience in the field of Software Quality Assurance.  
+I am an undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), passionate about Software Quality Assurance and Test Automation. I enjoy finding bugs, improving software quality, and learning modern testing technologies.
 
-## Skills  
-- Manual Testing  
-- Software Quality Assurance (QA)  
-- Selenium Automation  
-- HTML / CSS / JavaScript  
-- SQL  
-- Java  
-- Python  
-- C / C++  
-- AWS Cloud Computing  
+---
 
-- 🔭 I’m currently working on improving my QA and automation testing skills  
-- 🌱 I’m currently learning Selenium & Test Automation  
-- 📫 How to reach me: savinditharu611@gmail.com  
+## 🚀 About Me
+- 🔍 Interested in Manual Testing & Automation Testing
+- 🌱 Currently learning Selenium & Test Automation
+- 💻 Familiar with Web Development Technologies
+- 🤝 Team player with leadership skills
+- 🎯 Seeking opportunities in Software QA & Testing
 
-<img src="https://github-readme-stats.vercel.app/api?username=majintha&show_icons=true&theme=github_dark" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majintha&layout=compact&theme=github_dark" />
+## 🛠️ Skills & Tools
 
-## Examples of Work
-<img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
+### 💻 Programming & Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://github.com/YOUR_USERNAME](https://github.com/Savindi-Tharuka))
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://lk.linkedin.com/in/savindii?trk=people-guest_people_search-card)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___sav1_1?igsh=OWR1cmk0dDZheWhw)
+### 🧪 QA & Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=majintha&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majintha&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=majintha&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/majintha">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35">
+</a>
+
+<a href="https://www.linkedin.com/in/majintha-crishan/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35">
+</a>
+
+<a href="https://www.instagram.com/__maji_/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="35">
+</a>
+</p>
+
+---
+
+⭐ *“Quality is never an accident; it is always the result of intelligent effort.”*
