@@ -20,7 +20,7 @@ I am a responsible and hardworking individual with strong teamwork and leadershi
 
 - 🔭 I’m currently working on improving my QA and automation testing skills  
 - 🌱 I’m currently learning Selenium & Test Automation  
-- 📫 How to reach me: your-email@example.com  
+- 📫 How to reach me: savinditharu611@gmail.com  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=algolia&line_height=24&show_icons=true&hide=stars&include_all_commits=true)
 
@@ -30,6 +30,6 @@ I am a responsible and hardworking individual with strong teamwork and leadershi
 <img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
 
 ## Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YOUR_USERNAME)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/YOUR_LINK)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/YOUR_USERNAME)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://github.com/YOUR_USERNAME](https://github.com/Savindi-Tharuka))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://lk.linkedin.com/in/savindii?trk=people-guest_people_search-card)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___sav1_1?igsh=OWR1cmk0dDZheWhw)
