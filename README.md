@@ -22,9 +22,9 @@ I am a responsible and hardworking individual with strong teamwork and leadershi
 - 🌱 I’m currently learning Selenium & Test Automation  
 - 📫 How to reach me: savinditharu611@gmail.com  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=majintha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=majintha&show_icons=true&theme=github_dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majintha&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majintha&layout=compact&theme=github_dark" />
 
 ## Examples of Work
 <img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
