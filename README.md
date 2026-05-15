@@ -98,7 +98,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="35"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="https://lk.linkedin.com/in/savindii?trk=people-guest_people_search-card" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35"/>
   </a>
 
