@@ -52,7 +52,11 @@
   <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+## 🌱 Examples of Work
+
+<p align="center">
+  <img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -70,8 +74,6 @@
   <img src="https://streak-stats.demolab.com?user=Savindi-Tharuka&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🌱 Examples of Work
-<img src="https://github.com/majintha/majintha/blob/master/ezgif.com-gif-maker.gif" width="512" >
 
 ## 👀 Profile Views
 
