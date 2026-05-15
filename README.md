@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi there 👋, my name is majintha
+Design and Development
+I am an undergraduate at Sri Lanka Institute of Information Technology following a degree in Information Technology. I am currently in the 3rd year 1st semester of my degree.
+
+I am a responsible and hardworking individual, and I believe that I am a good team player and leader as well. I hope to seek an internship related to Information Technology.
+
+Skills: HTML / CSS / Javascript / SQL Angular / Node.js / C / C++/ Java / Python / AWS Cloud Computing.
+
+🔭 I’m currently working on this page.
+🌱 I’m currently learning Angular
+📫 How to reach me: majintha.c@gmail.com
 
 <!--
 **Savindi-Tharuka/Savindi-Tharuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
