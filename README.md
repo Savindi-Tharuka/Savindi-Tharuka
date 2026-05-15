@@ -39,9 +39,9 @@ I am an undergraduate at the Sri Lanka Institute of Information Technology (SLII
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=majintha&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=savindi&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=majintha&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=savindi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ I am an undergraduate at the Sri Lanka Institute of Information Technology (SLII
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=majintha&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=savindi&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -57,11 +57,11 @@ I am an undergraduate at the Sri Lanka Institute of Information Technology (SLII
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/majintha">
+<a href="https://github.com/savindi">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35">
 </a>
 
-<a href="https://www.linkedin.com/in/majintha-crishan/">
+<a href="https://www.linkedin.com/in/savindi-crishan/">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35">
 </a>
 
