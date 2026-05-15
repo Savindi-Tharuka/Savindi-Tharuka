@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=savindi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Savindi-Tharuka&show_icons=true&theme=tokyonight&hide_border=true"/>
   
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=savindi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
