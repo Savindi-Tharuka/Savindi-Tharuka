@@ -21,7 +21,7 @@
 - 🌱 Currently learning Selenium Automation Testing
 - 💻 Interested in Manual Testing, API Testing & Automation
 - 🤝 Team player with leadership skills
-- 🎯 Seeking internship opportunities in QA & Software Testing
+- 🎯 Actively seeking QA internship opportunities to contribute and grow in software testing and automation
 
 ---
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -57,9 +57,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Savindi-Tharuka&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savindi-Tharuka&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=savindi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi-Tharuka&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=savindi&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Savindi-Tharuka&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=savindi&label=Profile%20views&color=0e75b6&style=flat" alt="Savindi" />
+  <img src="https://komarev.com/ghpvc/?username=Savindi-Tharuka&label=Profile%20views&color=0e75b6&style=flat" alt="Savindi-Tharuka" />
 </p>
 
 ---
@@ -93,15 +93,15 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/savindi" target="_blank">
+  <a href="https://github.com/Savindi-Tharuka" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="35"/>
   </a>
 
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35"/>
   </a>
 
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="35"/>
   </a>
 </p>
