@@ -102,7 +102,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35"/>
   </a>
 
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/___sav1_1?igsh=OWR1cmk0dDZheWhw" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="35"/>
   </a>
 </p>
