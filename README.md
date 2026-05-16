@@ -19,7 +19,7 @@
 
 - 🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)  
 - 🧪 Passionate about Software Quality Assurance & Testing  
-- 🌱 Currently learning Selenium Automation Testing  
+- 🌱 Currently learning Selenium, PlayWright Automation Testing  
 - 💻 Interested in Manual Testing, API Testing & Automation  
 - 🤝 Team player with leadership skills  
 - 🎯 Actively seeking QA internship opportunities to grow in software testing  
